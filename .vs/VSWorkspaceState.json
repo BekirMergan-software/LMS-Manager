@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\lms-backend",
+    "\\lms-backend\\src",
+    "\\lms-backend\\src\\main",
+    "\\lms-backend\\src\\main\\java",
+    "\\lms-backend\\src\\main\\java\\edu",
+    "\\lms-backend\\src\\main\\java\\edu\\tr",
+    "\\lms-backend\\src\\main\\java\\edu\\tr\\eskisehir",
+    "\\lms-backend\\src\\main\\java\\edu\\tr\\eskisehir\\configuration",
+    "\\lms-frontend",
+    "\\lms-frontend\\src"
+  ],
+  "SelectedNode": "\\lms-backend\\src\\main\\java\\edu\\tr\\eskisehir\\configuration\\WebSecurityConfiguration.java",
+  "PreviewInSolutionExplorer": false
+}

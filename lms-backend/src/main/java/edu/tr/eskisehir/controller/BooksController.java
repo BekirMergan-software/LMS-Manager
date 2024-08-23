@@ -12,7 +12,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-@CrossOrigin("http://localhost:4200/")
+@CrossOrigin("http://localhost:8080/")
 @RestController
 @RequestMapping("/admin")
 public class BooksController {
