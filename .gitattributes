@@ -1,0 +1,2 @@
+C:UsersbekirDesktopLMS filter=lfs diff=lfs merge=lfs -text
+MANAGER filter=lfs diff=lfs merge=lfs -text
